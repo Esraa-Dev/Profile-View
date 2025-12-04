@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsb2ZmaWNlN18yZF9pbGx1c3RyYXRpb25fb2Zfam95ZnVsX25pY2Vfd29tYW5fdXNpbmdfbGFwdF8yYzI4M2Y0ZS00MDRkLTQxMTgtYWFhYi0wMWRlYzRmYzI0OTBfMS5qcGc.jpg" />
+  <img height="150" src="https://assets-v2.lottiefiles.com/a/7f69c930-1180-11ee-a99d-57c5be034869/D85wH4fb3a.gif" />
 </div>
 
 ### 
@@ -57,7 +57,8 @@ I'm a MERN Stack Developer from Egypt, passionate about building efficient and s
 
 
   <!-- Validation & Utilities -->
-  <img src="https://img.icons8.com/ios/50/000000/zod.png](https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" height="40" alt="Zod logo" />
+  <img width="100" height="40" alt="image" src="https://github.com/user-attachments/assets/bf6d1e11-9c38-4664-916c-8a8cc68dfbd5" />
+
   <img width="12" />
 
   <!-- Version Control -->
