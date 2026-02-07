@@ -22,7 +22,13 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-Dev&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Esraa-Dev's GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esraa-Dev&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=html,css,scss&count_private=true" alt="Esraa-Dev's Top Languages" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Esraa-Dev&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Esraa-Dev's Overall Stats" />
+</div>
 
 ---
 
