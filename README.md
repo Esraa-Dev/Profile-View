@@ -20,12 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github.com/Esraa-Dev/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-
----
-
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
